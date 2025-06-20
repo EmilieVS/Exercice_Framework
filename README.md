@@ -1,6 +1,6 @@
 👥 Training exercise
 
-💪School exercice to learn frameworks.
+💪School exercise to learn frameworks.
 
 📄Guidelines : Reproduction of a digital mockup using a framework of our choosing.
 
