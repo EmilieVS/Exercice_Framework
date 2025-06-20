@@ -7,6 +7,7 @@
 📚 Used stack
 
 🌐 HTML, CSS, JS, Node.Js, Vite
+
 🧩 React
 
 
